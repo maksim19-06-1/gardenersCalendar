@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.59eb94f7.css",
+    "main.js": "/static/js/main.7893e421.js",
+    "static/js/787.1a365d72.chunk.js": "/static/js/787.1a365d72.chunk.js",
+    "static/media/BackgroundImage.jpg": "/static/media/BackgroundImage.00589a83ea2762a34952.jpg",
+    "static/media/moonPhase1.png": "/static/media/moonPhase1.97a11f1e0419180ffcef.png",
+    "static/media/moonPhase0.png": "/static/media/moonPhase0.1560d775d9a7dd42a36a.png",
+    "static/media/moonPhase2.png": "/static/media/moonPhase2.a11f3f2917ba9e2d6adc.png",
+    "static/media/moonPhase3.png": "/static/media/moonPhase3.8c9c27e08a109d80e881.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.59eb94f7.css.map": "/static/css/main.59eb94f7.css.map",
+    "main.7893e421.js.map": "/static/js/main.7893e421.js.map",
+    "787.1a365d72.chunk.js.map": "/static/js/787.1a365d72.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59eb94f7.css",
+    "static/js/main.7893e421.js"
+  ]
+}
